@@ -1,5 +1,7 @@
 #!/bin/bash
-my /tmp/betty /tmp/my_first_directory
 mv /tmp/betty /tmp/my_first_directory
+mv /tmp/betty
+mv /tmp/betty
+mv /tmp/my_first_directory
 #!/bin/bash
 mv /tmp/betty /tmp/my_first_directory
