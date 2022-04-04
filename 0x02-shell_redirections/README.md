@@ -1,2 +1,3 @@
-Hello,World
+describing wat each script is doing
+
 
