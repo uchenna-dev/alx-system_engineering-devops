@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#this displays best school until its meets its conditional statement
+
+count=0
+
+until [ $count -eq 10 ]
+do
+  echo "Best School"
+  (( count++ ))
+  
+done
